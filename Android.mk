@@ -77,6 +77,7 @@ LOCAL_SRC_FILES += src/phFriNfc_MapTools.c
 LOCAL_SRC_FILES += src/phFriNfc_TopazMap.c
 LOCAL_SRC_FILES += src/phFriNfc_TopazDynamicMap.c
 LOCAL_SRC_FILES += src/phFriNfc_DesfireMap.c
+LOCAL_SRC_FILES += src/phFriNfc_ISO15693Map.c
 LOCAL_SRC_FILES += src/phFriNfc_NdefMap.c
 LOCAL_SRC_FILES += src/phFriNfc_IntNdefMap.c
 
@@ -88,6 +89,7 @@ LOCAL_SRC_FILES += src/phFriNfc_DesfireFormat.c
 LOCAL_SRC_FILES += src/phFriNfc_MifULFormat.c
 LOCAL_SRC_FILES += src/phFriNfc_MifStdFormat.c
 LOCAL_SRC_FILES += src/phFriNfc_SmtCrdFmt.c
+LOCAL_SRC_FILES += src/phFriNfc_ISO15693Format.c
 
 #phFriNfc_OvrHal
 LOCAL_SRC_FILES += src/phFriNfc_OvrHal.c
